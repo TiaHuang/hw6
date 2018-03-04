@@ -1,4 +1,4 @@
-// Added volumn control
+// metronome
 
 var freqA = 261;
 var freqS = 293;
